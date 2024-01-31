@@ -13,3 +13,6 @@
 
 # .pem files
 *.pem
+
+#Local backend configuration
+backend_local.tf
